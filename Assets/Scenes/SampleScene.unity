@@ -2037,6 +2037,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: a8d9d1ff2b56d7a4d913b39e48dc25f8, type: 3}
   m_PrefabInstance: {fileID: 1909157394}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &1047829747
 GameObject:
   m_ObjectHideFlags: 0
@@ -2072,6 +2073,8 @@ Transform:
   - {fileID: 1446333290}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> be4739b91c8995511c7ccb25cb89f748d580900f
 --- !u!1 &1094981048
 GameObject:
   m_ObjectHideFlags: 0
@@ -2570,6 +2573,7 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1001726902}
   m_SourcePrefab: {fileID: 100100000, guid: 3880f500f04559447b98e32aadc5379a, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1446333289
 GameObject:
   m_ObjectHideFlags: 0
@@ -2694,6 +2698,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1446333289}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+=======
+>>>>>>> be4739b91c8995511c7ccb25cb89f748d580900f
 --- !u!1001 &1470014256
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2951,11 +2957,14 @@ CapsuleCollider:
   m_Height: 2.3103411
   m_Direction: 1
   m_Center: {x: -0.0000007899049, y: 0.6551712, z: -0.1744547}
+<<<<<<< HEAD
 --- !u!95 &1522705738 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: 5ce5f2d8fabc2e245bbc5d956f552bb3, type: 3}
   m_PrefabInstance: {fileID: 860330886}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> be4739b91c8995511c7ccb25cb89f748d580900f
 --- !u!1001 &1568925210
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3931,6 +3940,7 @@ CapsuleCollider:
   m_Height: 3.5628862
   m_Direction: 1
   m_Center: {x: -0.0000030994415, y: 1.7814422, z: -0.0000006556511}
+<<<<<<< HEAD
 --- !u!1 &1918719654
 GameObject:
   m_ObjectHideFlags: 0
@@ -4055,6 +4065,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1918719654}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+=======
+>>>>>>> be4739b91c8995511c7ccb25cb89f748d580900f
 --- !u!1001 &1955229249
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7447,4 +7459,7 @@ SceneRoots:
   - {fileID: 302586231}
   - {fileID: 921465133}
   - {fileID: 1697212555}
+<<<<<<< HEAD
   - {fileID: 1047829748}
+=======
+>>>>>>> be4739b91c8995511c7ccb25cb89f748d580900f
